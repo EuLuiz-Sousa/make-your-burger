@@ -1,20 +1,15 @@
 # make-your-burger
 
+## Project using Vue Js, router training, api's and componentization
+
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development. Run in two terminals at the same time.
 ```
-npm run serve
 npm run backend
+npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
